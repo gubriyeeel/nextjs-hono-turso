@@ -45,7 +45,7 @@ To dive deeper into Next.js and related technologies, check out these resources:
 - [Hono Documentation](https://hono.dev/docs) - Explore Hono's capabilities for building APIs.
 - [Turso Documentation](https://turso.dev/docs) - Learn about Turso for database management.
 
-Feel free to explore the [repository](https://github.com/gubriyeeel/) and contribute if you have feedback or improvements!
+Feel free to explore the [repository]([https://github.com/gubriyeeel/](https://github.com/gubriyeeel/nextjs-hono-turso)) and contribute if you have feedback or improvements!
 
 ## 🚀 Deploy on Vercel
 
